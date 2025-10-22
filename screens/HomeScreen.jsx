@@ -12,7 +12,7 @@ const HomeScreen = ({ navigation }) => {
         name: <Text>Garlic Bread</Text>,
         description:<Text>Freshly baked bread with garlic butter</Text>,
         course: <Text>starter'</Text>,
-        price: 'R45',
+        price: <Text>R45</Text>,
       },
       {
         id: '2',
